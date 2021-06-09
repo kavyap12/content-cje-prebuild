@@ -95,7 +95,7 @@
             <configuration>
               <packages>
                 <app>makeindex.go</app>
-              </packages>
+                     </packages>
             </configuration>
           </execution>
         </executions>
