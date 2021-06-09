@@ -60,11 +60,13 @@
       </resource>
     </resources>
     <plugins>
+             <!--Adding sonar plugin -->
              <plugin>
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>sonar-maven-plugin</artifactId>
     <version>2.6</version>
-      </plugin>
+</plugin>
+
       <plugin>
         <groupId>com.igormaznitsa</groupId>
         <artifactId>mvn-golang-wrapper</artifactId>
